@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Gerges Morad 👋
 
-<!--
-**Gerges7/Gerges7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Teaching Assistant and an M.Sc. candidate in Computer Science.
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Teaching Assistant
+- M.Sc. Computer Science Candidate
+- B.Sc. Computer Science
+- Graduation Project Team Leader
+- Technical Support Experience
+
+## Graduation Project
+
+### Network Intrusion Detection System Using Machine Learning
+
+A machine learning-based system designed to detect network attacks.
+
+- Role: Team Leader
+- Project Grade: Excellent
+- Field: Machine Learning and Cybersecurity
+
+## Technical Background
+
+- Python
+- C++
+- SQL
+- HTML
+- CSS
+- Programming and Computer Science Fundamentals
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/gerges-morad/)
+- [X — Infinity Threads](https://x.com/InfinityThrds)
